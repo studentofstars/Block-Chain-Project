@@ -3,6 +3,8 @@ This is a project on Decentralized Idea and Patent Registry
 
 A simple blockchain-based registry to store and verify ideas or patents using SHA256 hashing.
 
+Check the project here: https://block-chain-project.streamlit.app/
+
 ## Features
 - Submit idea (PDF or TXT) with user info
 - Store file hash in a custom blockchain
